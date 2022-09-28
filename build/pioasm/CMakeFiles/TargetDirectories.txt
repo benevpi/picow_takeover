@@ -1,0 +1,3 @@
+C:/Users/ben/Documents/GitHub/picow_takeover/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/ben/Documents/GitHub/picow_takeover/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/ben/Documents/GitHub/picow_takeover/build/pioasm/CMakeFiles/rebuild_cache.dir
